@@ -1,6 +1,6 @@
 # Fintech_Module15
 
-![roboAdvisor.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Images/roboAdvisor.jpg)
+![roboAdvisor.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/roboAdvisor.jpg)
 ---
 # RoboAdvisors using AWS
 ---
