@@ -89,7 +89,15 @@ Video 1: Initial Robo Advisor
 
 ---
 
-### 
+### Create Amazon Lambda function
+
+create new lambda funtion:
+
+![3.1.1 Create new Lambda Function recommendPortfolio .jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.1.1 Create new Lambda Function recommendPortfolio .jpg])
+
+
+
+
 
 
 ## Contributor(s)
