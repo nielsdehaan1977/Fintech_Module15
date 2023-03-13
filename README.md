@@ -95,10 +95,35 @@ create new lambda funtion:
 
 ![3.1.1 Create new Lambda Function recommendPortfolio .jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.1.1 Create new Lambda Function recommendPortfolio .jpg])
 
+![3.1.2 recommendPortfolio Function.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.1.2 recommendPortfolio Function.jpg])
+
+finished recommend portfolio function:
+
+![3.2 Complete recommend_porftolio function adding requested validation rules.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.2 Complete recommend_porftolio function adding requested validation rules.jpg])
+
+### Lambda function test
+
+none investment advise test:
+
+![3.3.1 None_investment_advise.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.3.1 None_investment_advise.jpg])
+
+low investment advise test:
+
+![3.3.2 low_investment_advise.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.3.2 low_investment_advise.jpg])
 
 
+medium investment advise test:
+
+![3.3.3 medium_investment_advise.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.3.3 medium_investment_advise.jpg])
+
+high investment advise test:
+
+![3.3.4 high_investment_advise.jpg](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.3.4 high_investment_advise.jpg])
 
 
+Video 2: Enhanced Robo Advisor with Amazon Lambda Function
+
+![3.4 Video2 - Enhanced Robo Advisor with Amazon Lambda Function.mp4](https://github.com/nielsdehaan1977/Fintech_Module15/blob/main/Media/3.4 Video2 - Enhanced Robo Advisor with Amazon Lambda Function.mp4])
 
 ## Contributor(s)
 
