@@ -32,7 +32,7 @@ This project leverages python 3.9 and Jupyter Lab with the following packages:
 
 * `Python 3.7`
 * `Amazon Lex`
-* `Amazon Lambda'
+* `Amazon Lambda`
 
 * [Amazon_Lex](https://aws.amazon.com/lex/) - Build chatbots with conversational AIb
 
